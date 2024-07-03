@@ -1,0 +1,27 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/long-covid-postcovid-19---primary.py
+inputModule3:
+  class: File
+  path: python/clinic-long-covid---primary.py
+inputModule4:
+  class: File
+  path: python/referral-long-covid---primary.py
+inputModule5:
+  class: File
+  path: python/long-covid---primary.py
+inputModule6:
+  class: File
+  path: python/chronic-long-covid---primary.py
+inputModule7:
+  class: File
+  path: python/covid---primary.py
+inputModule8:
+  class: File
+  path: python/long-covid-haul---primary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
